@@ -8,7 +8,7 @@ Rust CLI - Graphical Interface - To Explore Folders - Unfold Folder/s - View Fil
 cargo run
 ```
 
-Commands
+## Commands
 
 * q = quit program
 * j = scroll up
@@ -19,3 +19,13 @@ Commands
 * l = enter directory
 * Ctrl+j = scroll up  mardown file
 * Ctrl+k = sroll down markdown file
+
+## ⚡ Support
+<div align="center">
+
+**Made with ❤️ and ☕ by the Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** if the script is useful to You! ⭐
+</div>
