@@ -26,7 +26,7 @@ Greenmerald combines the speed of a CLI with the visual feedback of a GUI. It al
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/greenmerald-tui-markdown-renderer.git
+git clone https://github.com/plantacerium/greenmerald-tui-markdown-renderer.git
 
 # Navigate to the project directory
 cd greenmerald-tui-markdown-renderer
